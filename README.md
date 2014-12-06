@@ -1,6 +1,5 @@
 bow_matlab
 ==========
-this is the bag of words model coding in Matlab.
+edit by gyalex1314
 
-
-bag of words model
+this is the bag of words model in Matlab.
